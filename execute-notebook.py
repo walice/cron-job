@@ -1,7 +1,7 @@
 import papermill as pm
-import os
+# import os
 
-cwd = os.getcwd()
+# cwd = os.getcwd()
 
-pm.execute_notebook(cwd + "/cron-job/index.ipynb",
-                    cwd + "/cron-job/index.ipynb")
+pm.execute_notebook("/home/alice_lepissier/cron-job/index.ipynb",
+                    "/home/alice_lepissier/cron-job/index.ipynb")
