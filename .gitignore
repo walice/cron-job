@@ -1,0 +1,6 @@
+.env
+hash-password
+keys/
+.ipynb_checkpoints/
+credentials.json
+covid_env/
