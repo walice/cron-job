@@ -1,8 +1,6 @@
-commit_message.txt
 .env
 hash-password
 keys/
 .ipynb_checkpoints/
 credentials.json
-covid_env/
-.ssh/
+commit_message.txt
