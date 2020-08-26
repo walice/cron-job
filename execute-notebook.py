@@ -3,5 +3,5 @@ import os
 
 cwd = os.getcwd()
 
-pm.execute_notebook(cwd + "/cron-job/index.ipynb",
-                    cwd + "/cron-job/index.ipynb")
+pm.execute_notebook(cwd + "/COVID-SB/index.ipynb",
+                    cwd + "/COVID-SB/index.ipynb")
